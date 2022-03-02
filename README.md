@@ -6,7 +6,7 @@ Select Dataset from the menubar
 
 Select the dataset of your choice (landset in my case)
 
-__ In case of Landset__ 
+# __ In case of Landset__ 
   - select the satellite and select on desired tier (Tier 1 in my case)
   
   
