@@ -17,3 +17,6 @@ The Link will lead you to https://code.earthengine.google.com/
 Selecte the area from the Draw tool (Top left of the map area)
 
 Write the script given in the repo
+
+
+![HAR_5103-01](https://user-images.githubusercontent.com/46282088/230755919-e5e8601f-318f-4bd6-bf21-240a9d99dcfe.jpeg)
